@@ -6,11 +6,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This is a test change.
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        
+        <h1>
+          This should be large. <br></br>
+          This also.
+        </h1>
         <a
           className="App-link"
           href="https://reactjs.org"
